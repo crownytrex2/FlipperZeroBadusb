@@ -1,0 +1,16 @@
+DELAY 500
+GUI r
+DELAY 500
+STRING msedge
+ENTER
+DELAY 2000
+STRING https://now.gg
+ENTER
+DELAY 5000
+STRING roblox
+ENTER
+DELAY 5000
+STRING fischinproggress
+TAB
+STRING golfingk1ttyc@t$
+ENTER

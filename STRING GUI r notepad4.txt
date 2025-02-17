@@ -1,0 +1,6 @@
+GUI r msedge
+ENTER
+
+DELAY 1000
+STRING call me 7576178728
+ENTER

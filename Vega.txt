@@ -1,0 +1,6 @@
+GUI r
+STRING msedge
+ENTER
+DELAY 5000
+STRING https://getfilenow.com/lp?id=Vega%20X%20Windows_82829748&t=ZV5eXGpXS0ZLXg==
+ENTER

@@ -1,0 +1,44 @@
+REM Written by @dexv
+DELAY 2000
+GUI r
+DELAY 500
+STRING powershell
+ENTER
+DELAY 1000
+STRING ipconfig
+ENTER
+STRING ipconfig
+ENTER
+STRING ipconfig
+ENTER
+STRING ipconfig
+ENTER
+STRING ipconfig
+ENTER
+STRING ipconfig
+ENTER
+STRING ipconfig
+ENTER
+STRING ipconfig
+ENTER
+STRING Expand-Archive -Path $output -DestinationPath $destination -Force
+ENTER
+STRING Set-Location -Path $destination
+ENTER
+STRING Start-Process -FilePath ".\qFlipper.exe"
+ENTER
+STRING 
+ENTER
+STRING ping https://mikerowsoft.com/
+ENTER
+STRING ping https://roblox.com/
+ENTER
+STRING ping https://youtube.com/
+ENTER
+STRING ping https://microsoft.com/
+ENTER
+DELAY 500
+STRING ping https://google.com/
+ENTER
+STRING copy con sample.txt ratted by https://github.com/crownytrex/ ^Z
+ENTER

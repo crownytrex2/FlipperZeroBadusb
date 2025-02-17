@@ -1,0 +1,9 @@
+GUI r
+DELAY 1000
+REM This script was made by crownytrex
+DELAY 1000
+STRING notepad
+ENTER
+DELAY 1000
+STRING Hacked by <youruserhere>
+ENTER

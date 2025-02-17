@@ -1,0 +1,42 @@
+REM Written by @crownytex on github
+DELAY 2000
+GUI r
+DELAY 500
+STRING powershell
+ENTER
+DELAY 1000
+STRING ipconfig
+ENTER
+STRING ipconfig
+ENTER
+STRING ipconfig
+ENTER
+STRING ipconfig
+ENTER
+STRING ipconfig
+ENTER
+STRING ipconfig
+ENTER
+STRING ipconfig
+ENTER
+STRING ipconfig
+ENTER
+STRING ping https://usa.gov/
+ENTER
+STRING ping https://copilot.microsoft.com/
+ENTER
+STRING ping https://flipperzero.one/
+ENTER
+STRING ping now.gg
+ENTER
+STRING ping https://mikerowsoft.com/
+ENTER
+STRING ping https://roblox.com/
+ENTER
+STRING ping https://youtube.com/
+ENTER
+STRING ping https://microsoft.com/
+ENTER
+DELAY 500
+STRING ping https://google.com/
+ENTER

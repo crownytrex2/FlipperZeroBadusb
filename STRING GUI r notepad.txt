@@ -1,0 +1,9 @@
+GUI r notepad
+
+REM This script was made by crownytrex
+
+STRING Made by crownytrex, anyways.
+ENTER
+
+STRING Hacked by <youruserhere>
+ENTER

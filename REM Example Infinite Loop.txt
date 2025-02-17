@@ -1,0 +1,11 @@
+REM Example Infinite Loop
+
+BUTTON_DEF
+    WHILE TRUE
+        STRING W
+    END_WHILE
+END_BUTTON
+
+WHILE TRUE
+   STRING W
+END_WHILE
